@@ -1,6 +1,6 @@
-# SHA-256 ASIC RTL Project
+# Bitcoin Miner ASIC Project
 
-This project implements a multi-core SHA-256 pipeline ASIC with UART control.  
+This project implements a multi-core Bitcoin Miner with UART control.  
 
 ## Modules Overview
 
